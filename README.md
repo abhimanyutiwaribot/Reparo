@@ -6,7 +6,7 @@
 
 Reparo is a comprehensive mobile and web application designed to help communities report and manage local infrastructure issues efficiently.
 
-## 🌟 Features
+## Features
 
 ### Mobile App
 
@@ -15,7 +15,6 @@ Reparo is a comprehensive mobile and web application designed to help communitie
 - **Interactive Maps**: View reported issues in your vicinity
 - **Push Notifications**: Get instant updates on your reports
 - **Profile Management**: Track your contributions and manage personal information
-- **Dark/Light Theme**: Comfortable viewing in any lighting condition
 
 ### Admin Dashboard
 
@@ -24,7 +23,7 @@ Reparo is a comprehensive mobile and web application designed to help communitie
 - **Analytics**: Track resolution times and community engagement
 - **Real-time Updates**: Live issue tracking and status management
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Mobile App**: React Native + Expo
 - **Admin Dashboard**: React.js
@@ -34,11 +33,11 @@ Reparo is a comprehensive mobile and web application designed to help communitie
 - **Storage**: Cloudinary
 - **Authentication**: JWT
 
-## 📱 Screenshots
+## Screenshots
 
-will add when completed
 
-## 🚀 Getting Started
+
+## Getting Started
 
 ### Prerequisites
 - Node.js 14+
@@ -97,7 +96,7 @@ cd admin
 npm run dev
 ```
 
-## 📝 Project Structure
+## Project Structure
 ```bash
 reparo/
 ├── client/              # Mobile app (React Native)
@@ -105,23 +104,4 @@ reparo/
 ├── server/             # Backend API (Node.js)
 ```
 
-## 🤝 Contributing
-
-**Fork the repository**
-
--- **Create your feature branch (git checkout -b feature/AmazingFeature)**
-
--- **Commit your changes (git commit -m 'Add some AmazingFeature')**
-
--- **Push to the branch (git push origin feature/AmazingFeature)**
-
--- **Open a Pull Request**
-
-## 📄 License
-
-**This project is licensed under the MIT License - see the LICENSE file for details.**
-
-## 🙏 Acknowledgments
-
-**All contributors who have helped this project evolve**
-**Community members who provided valuable feedback**
+thankyou!!!
